@@ -1,6 +1,6 @@
 # 🔴 포켓몬 도감 토이 프로젝트
 
-<img src="[https://github.com/unoung/Make-Poketmon-Dex/assets/84708950/5d7b8977-836e-4bcb-9d1d-d0985e86bc50](https://github.com/unoung/Make-Poketmon-Dex/assets/84708950/3f41168d-e2b2-472b-9e67-1a5352a7953f)" />
+<img src="https://github.com/unoung/Make-Poketmon-Dex/assets/84708950/eaa59f03-fff9-4ecc-966b-cc9e74f60ddf"/>
 <br/>
 <br/>
 
