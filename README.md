@@ -12,7 +12,7 @@
 # Feature
 - api를 사용하여 포켓몬 리스트를 받아옵니다.
 - 해당하는 포켓몬을 클릭하면 능력치와 속성을 볼 수 있습니다.
-- 
+
 
 # Motivation
 - react-query practic
